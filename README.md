@@ -1,7 +1,7 @@
 
 About me
 ---
-Hi i'm Ashutosh. I am from Nepal and I am 19 years old.
+Hi i'm Ashutosh. I am from Nepal and I am 19 years old.\n
 Born on 28th August,2002
 
 My Socials
