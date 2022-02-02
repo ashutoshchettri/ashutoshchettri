@@ -1,7 +1,7 @@
 ![aot](https://imgur.com/gZTFIli.png)
 About me
 ---
-Hi i'm Ashutosh. I am from Nepal and I am 19 years old.</a>
+Hi i'm Viper aka Eidoron1😅. I am from Nepal and I am 19 years old.</a>
 Born on 28th August,2002. Fav anime SnK so I have the banner on top😂
 
 <h2>Github Stats:</h2>
