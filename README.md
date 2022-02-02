@@ -5,6 +5,7 @@ About me
 ### I am from Nepal and I am 19 years old.
 ### Born on 28th August,2002. 
 ### Wondering who is in the banner? It's VIPER.
+### I love Japan and their cultures.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Eidoron1&bg_color=000&show_icons=true&count_private=true&hide_border=true&text_color=0eff13&title_color=ff0000&icon_color=61dafb&include_all_commits=true) 
 
@@ -13,8 +14,6 @@ My passions
 * Valorant 
 * Anime
 * Manga
-
-Fun Fact: I love Japan and Japanese culture. Specially the kimono.
 
 <br />
 <a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
