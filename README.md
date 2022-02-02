@@ -2,7 +2,7 @@
 About me
 ---
 Hi i'm Ashutosh. I am from Nepal and I am 19 years old.</a>
-Born on 28th August,2002
+Born on 28th August,2002. Fav anime SnK so I have the banner on top😂
 
 <h2>Github Stats:</h2>
   <p><img src="https://github-readme-stats.vercel.app/api?username=Eidoron1&show_icons=true&theme=midnight-purple"></p>
