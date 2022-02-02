@@ -2,9 +2,9 @@
 <h1 align="center">Konichiwa minna, Bokuwa Eidoron<h1>
 <hr>
 <h2>Github Stats:</h2>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=sayooxx&show_icons=true&theme=magenta"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=Eidoron1&show_icons=true&theme=magenta"></p>
 <h3>Language Stats:</h3>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevstunner&card_width=495&theme=midnight-purple"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eidoron1&card_width=495&theme=magenta"></p>
 <h2>Languages and Tools:<h2>
   <p>
     <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C"/>
