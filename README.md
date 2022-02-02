@@ -5,7 +5,7 @@ Hi i'm Viper aka Eidoron1😅. I am from Nepal and I am 19 years old.</a>
 Born on 28th August,2002. Wondering who is in the banner? It's VIPER.
 
 <h2>Github Stats:</h2>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=Eidoron1&show_icons=true&theme=midnight-purple"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=Eidoron1&show_icons=true&theme=2aa889"></p>
 
 My passions
 ---
