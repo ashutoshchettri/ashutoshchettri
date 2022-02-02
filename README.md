@@ -4,6 +4,9 @@ About me
 Hi i'm Ashutosh. I am from Nepal and I am 19 years old.</a>
 Born on 28th August,2002
 
+<h2>Github Stats:</h2>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=sayooxx&show_icons=true&theme=midnight-purple"></p>
+
 My Socials
 ---
 <a href="https://t.me/Eidoron1"><img alt="Mal" title="Mal" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"></a>
