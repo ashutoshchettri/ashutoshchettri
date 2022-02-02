@@ -1,4 +1,4 @@
-![aot](https://imgur.com/4Ihc2AG.png)
+![viper](https://imgur.com/4Ihc2AG.png)
 About me
 ---
 Hi i'm Viper aka Eidoron1😅. I am from Nepal and I am 19 years old.</a>
@@ -20,4 +20,4 @@ My passions
           
 My Socials
 ---
-<a href="https://t.me/Eidoron1"><img alt="Mal" title="Mal" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"></a>
+<a href="https://t.me/Eidoron1"><img alt="Telegram" title="Telegram" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"></a>
