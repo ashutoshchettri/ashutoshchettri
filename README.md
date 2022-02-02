@@ -10,7 +10,7 @@ About me
 
 My passions
 ---
-* Gaming
+* Valorant 
 * Anime
 * Manga
 
