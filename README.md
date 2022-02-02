@@ -1,4 +1,4 @@
-![next](https://imgur.com/bKAZ3XZ.png)
+![aot](https://imgur.com/undefined.png)
 About me
 ---
 Hi i'm Ashutosh. I am from Nepal and I am 19 years old.</a>
