@@ -14,6 +14,8 @@ My passions
 * Anime
 * Manga
 
+Fun Fact: I love Japan and Japanese culture. Specially the kimono.
+
 <br />
 <a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
   <table align="right">
