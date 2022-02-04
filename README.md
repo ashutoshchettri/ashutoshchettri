@@ -24,4 +24,4 @@ My Socials
 ---
 <a href="https://t.me/Eidoron1"><img alt="Telegram" title="Telegram" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"></a>
 <a href="https://anilist.co/user/Eidoron/animelist"><img alt="AniList" title="AniList" height="32" width="32" src="https://imgur.com/rmLsSku.png"></a>
-<a href="https://www.instagram.com/ashutosh_chettri_/"><img alt="Insta" title="Insta" height="32" width="45" src="https://imgur.com/nYHy23h.png"></a>
+<a href="https://www.instagram.com/ashutosh_chettri_/"><img alt="Insta" title="Insta" height="50" width="50" src="https://imgur.com/nYHy23h.png"></a>
