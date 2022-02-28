@@ -10,8 +10,7 @@ About me
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Eidoron1&bg_color=000&show_icons=true&count_private=true&hide_border=true&text_color=0eff13&title_color=ff0000&icon_color=61dafb&include_all_commits=true) 
 
 My passions
----
-* Valorant 
+--- 
 * Anime
 * Manga
 
