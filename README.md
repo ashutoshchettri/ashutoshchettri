@@ -7,7 +7,7 @@ About me
 ### Born on 28th August,2002. 
 ### I love Japan and their cultures.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Eidoron1&bg_color=000&show_icons=true&count_private=true&hide_border=true&text_color=ffb6c1&title_color=e75480&icon_color=ffb6c1&include_all_commits=true) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Eidoron1&bg_color=000&show_icons=true&count_private=true&hide_border=true&text_color=ff6347&title_color=ff0000&icon_color=ffb6c1&include_all_commits=true) 
 
 My passions
 --- 
