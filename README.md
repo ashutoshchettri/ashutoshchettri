@@ -15,10 +15,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eidoron1&label=Profile%20views&color=0e75b6&style=flat" alt="Eidoron1" /> </p>
 
-### My Device
-- Poco F3
-- MSi GS66 Stealth
-
 ### My stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eidoron1&theme=blue-green)
