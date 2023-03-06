@@ -7,9 +7,7 @@ About me
 ### Currently a student
 ### Feel free to talk with me from any of the below platforms:
 <p>
-  <a href="eidoronp67@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <a href="https://twitter.com/ashutosh_ch2002"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/ashutosh_chettri_/><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://t.me/Eidoron1><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
 </p>
 
