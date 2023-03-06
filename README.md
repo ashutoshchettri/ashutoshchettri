@@ -23,8 +23,3 @@ About me
 * Manga
 * Playing games (Valorant, Apex Legends)
 * Basketball
-
-<br />
-<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
-  <table align="right">
-      <tr>
