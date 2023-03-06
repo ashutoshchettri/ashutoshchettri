@@ -17,7 +17,7 @@ About me
 <p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Eidoron1&theme=radical&hide_border=true&border_radius=10"/></p>
 
 ### Hobbies
-- [!Anime & Manga] (https://anilist.co/user/Eidoron/)
+- [Anime & Manga](https://anilist.co/user/Eidoron/)
 - Games (Valorant, Apex Legends)
 - Basketball
 
