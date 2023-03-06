@@ -7,9 +7,12 @@ About me
 ### Currently a student
 ### Feel free to talk with me from any of the below platforms:
 
-<a href="https://t.me/Eidoron1"><img align="left" alt="Ashutosh's Telegram" width="32px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" /></a>
-<a href="https://twitter.com/ashutosh_ch2002"><img align="left" alt="Ashutosh's Twitter" width="32px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" /></a>
-
+<p>
+  <a href="eidoronp67@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a href="https://twitter.com/ashutosh_ch2002"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/ashutosh_chettri_/><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://t.me/Eidoron1><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
+</p>
 <br><br>
 
 ### My stats
@@ -23,3 +26,6 @@ About me
 * Manga
 * Playing games (Valorant, Apex Legends)
 * Basketball
+
+### Known languages and tools
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
