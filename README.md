@@ -1,6 +1,6 @@
 ![viper](https://imgur.com/JcyYzCI.png)
 ---
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I am Ashutosh Chettri a.k.a Viper
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ashutosh Chettri a.k.a Viper
 
 ### About me
 - I am a student, and self learning guy. Currently I am learning front end development.
@@ -15,8 +15,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eidoron1&label=Profile%20views&color=0e75b6&style=flat" alt="Eidoron1" /> </p>
 
-### My stats
+### My Device
+- [Poco F3](https://www.gsmarena.com/xiaomi_poco_f3-10758.php)
+- [MSi GS66 Stealth 10SE](https://www.msi.com/Laptop/GS66-Stealth-10SE/Specification)
 
+### Working Environment
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10ISO)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+
+### My stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eidoron1&theme=blue-green)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eidoron1&theme=blue-green)
 ![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eidoron1&theme=blue-green)
