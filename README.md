@@ -7,8 +7,8 @@ About me
 ### Currently a student
 ### Feel free to talk with me from any of the below platforms:
 
-<a href="https://t.me/Eidoron1"><img align="left" alt="Ashutosh's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" /></a>
-<a href="https://twitter.com/ashutosh_ch2002"><img align="left" alt="Ashutosh's Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" /></a>
+<a href="https://t.me/Eidoron1"><img align="left" alt="Ashutosh's Telegram" width="32px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" /></a>
+<a href="https://twitter.com/ashutosh_ch2002"><img align="left" alt="Ashutosh's Twitter" width="32px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" /></a>
 
 <br><br>
 
