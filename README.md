@@ -4,7 +4,7 @@ About me
 ---
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I am Ashutosh Chettri.
 ### Also known as Viper in telegram
-### Currently a student
+### Currently a student and self learning front end development
 ### Feel free to talk with me from any of the below platforms:
 <p>
   <a href="https://twitter.com/ashutosh_ch2002"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
