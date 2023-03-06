@@ -11,6 +11,8 @@ About me
   <a href="https://t.me/Eidoron1"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eidoron1&label=Profile%20views&color=0e75b6&style=flat" alt="Eidoron1" /> </p>
+
 ### My stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eidoron1&theme=blue-green)
