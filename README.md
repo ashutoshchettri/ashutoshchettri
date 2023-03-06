@@ -13,8 +13,8 @@ About me
 
 ### My stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eidoron1&theme=blue-green)]()
-<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Eidoron1&theme=blue-green&hide_border=true&border_radius=10"/></p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eidoron1&theme=blue-green)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eidoron1&theme=blue-green)]
 
 ### Hobbies
 - [Anime & Manga](https://anilist.co/user/Eidoron/)
