@@ -1,11 +1,11 @@
 ![viper](https://imgur.com/JcyYzCI.png)
-
-About me
 ---
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I am Ashutosh Chettri.
-### Also known as Viper in telegram
-### Currently a student and self learning front end development
-### Feel free to talk with me from any of the below platforms:
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I am Ashutosh Chettri a.k.a Viper
+
+### About me
+- I am a student, and self learning guy. Currently I am learning front end development.
+- Actively maintaining [SuperiorOS](https://github.com/SuperiorOS) for alioth (Poco F3).
+- I don't mind PMs, so feel free to pm me on any of the platforms below
 <p>
   <a href="https://twitter.com/ashutosh_ch2002"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://t.me/Eidoron1"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
@@ -14,6 +14,10 @@ About me
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eidoron1&label=Profile%20views&color=0e75b6&style=flat" alt="Eidoron1" /> </p>
+
+### My Device
+- Poco F3
+- MSi GS66 Stealth
 
 ### My stats
 
