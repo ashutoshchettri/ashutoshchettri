@@ -25,3 +25,4 @@ About me
 
 ### Known languages and tools
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/linux-%230F0301.svg?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
