@@ -27,7 +27,6 @@
 ### My stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eidoron1&theme=blue-green)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eidoron1&theme=blue-green)
-![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eidoron1&theme=blue-green)
 
 ### Hobbies
 - [Anime & Manga](https://anilist.co/user/Eidoron/)
