@@ -25,7 +25,7 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 ### My stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Eidoron1={username}&theme=blue-green)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Eidoron1&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eidoron1&theme=blue-green)
 
 ### Hobbies
