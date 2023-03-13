@@ -26,7 +26,7 @@
 
 ### My stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Eidoron1&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Eidoron1&theme=blue-green&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eidoron1&theme=blue-green&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eidoron1&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
 
 ### Hobbies
