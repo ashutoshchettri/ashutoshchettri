@@ -1,4 +1,4 @@
-![viper](https://imgur.com/hjcUIWy)
+![viper](https://imgur.com/hjcUIWy.jpg)
 ---
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ashutosh Chettri a.k.a Viper
 
