@@ -3,7 +3,7 @@
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ashutosh Chettri a.k.a Viper
 
 ### About me
-- I am a student, and self learning guy. Currently I am learning dart and flutter
+- I am a student, and self learning guy.
 - I don't mind PMs, so feel free to pm me on any of the platforms below
 <p>
   <a href="https://twitter.com/ashutosh_ch2002"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
