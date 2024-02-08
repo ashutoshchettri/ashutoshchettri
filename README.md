@@ -1,6 +1,15 @@
-![viper](https://imgur.com/uQzYwlC.jpg)
----
 <h2> Hi, I am Ashutosh Chettri <img src="https://raw.githubusercontent.com/ashutoshchettri/ashutoshchettri/main/pikahello.gif" width="40px" height="40px"></h2>
+
+Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying to improve myself. I am a FOSS lover, linux and andriod enthusiast. I'm a passionate Java developer.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXgxaXp3dWM0M20yeGFjbzd5bzljOTdoN21uZmJydnV3OXoxZTM1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+
+### More about me
+- I love coding
+- Happy to help with anything, so ask me anything
+- Currently working on web developement (backend)
+- On bootloop everytime.
+- Feel free to contact me in any of the platform below:
 
 <p>
   <a href="https://twitter.com/ashutosh_ch2002"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
@@ -9,14 +18,6 @@
   <a href="https://www.instagram.com/ashutosh_chettri_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/ashutosh-chettri-5b37a527b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
-
-Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying to improve myself. I am a FOSS lover, linux and andriod enthusiast. I'm a passionate Java developer.
-
-### More about me
-
-- Happy to help with anything, so ask me anything
-- Currently working on web developement (backend)
-- On bootloop everytime.
 
 ### Working Environment
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10ISO)
