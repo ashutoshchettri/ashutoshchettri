@@ -56,3 +56,10 @@ Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying t
 [![Figma](https://img.shields.io/badge/Figma-CC6699?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+
+### Contribution Graph
+<p align="center">
+ <a href="https://github.com/ashutoshchettri">
+   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshchettri&theme=github-compact" />
+ </a>
+</p>
