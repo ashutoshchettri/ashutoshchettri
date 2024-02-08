@@ -1,6 +1,6 @@
 ![viper](https://imgur.com/uQzYwlC.jpg)
 ---
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="20px"> I am Ashutosh Chettri a.k.a Viper
+<h2> Hi, I am Ashutosh Chettri <img src="https://raw.githubusercontent.com/ashutoshchettri/ashutoshchettri/main/pikahello.gif" width="40px" height="40px"></h2>
 
 ### About me
 - I am a student, and self learning guy.
