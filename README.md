@@ -2,23 +2,22 @@
 ---
 <h2> Hi, I am Ashutosh Chettri <img src="https://raw.githubusercontent.com/ashutoshchettri/ashutoshchettri/main/pikahello.gif" width="40px" height="40px"></h2>
 
-### About me
-- I am a student, and self learning guy.
-- I don't mind PMs, so feel free to pm me on any of the platforms below
 <p>
   <a href="https://twitter.com/ashutosh_ch2002"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://t.me/Eidoron1"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
   <a href="https://www.reddit.com/user/_____aashu____"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/ashutosh_chettri_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/ashutosh-chettri-5b37a527b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eidoron1&label=Profile%20views&color=0e75b6&style=flat" alt="Eidoron1" /> </p>
+Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying to improve myself. I am a FOSS lover, linux and andriod enthusiast. I'm a passionate Java developer.
 
-### My Device
-- [Poco F3](https://www.gsmarena.com/xiaomi_poco_f3-10758.php)
-- [MSi GS66 Stealth 10SE](https://www.msi.com/Laptop/GS66-Stealth-10SE/Specification)
+<h1>More about me</h1>
+- Happy to help with anything, so ask me anything
+- Currently working on web developement (backend)
+- On bootloop everytime.
 
-### Working Environment
+<h1>Working Environment</h1>
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10ISO)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
@@ -32,6 +31,7 @@
 - [Anime & Manga](https://anilist.co/user/Eidoron/)
 - Games (Valorant, Apex Legends)
 - Basketball
+- Reading books
 
 ### Known languages and tools
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -39,7 +39,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https:dart.dev)
-[![Flutter]( 	https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
