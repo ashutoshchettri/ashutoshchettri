@@ -12,12 +12,13 @@
 
 Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying to improve myself. I am a FOSS lover, linux and andriod enthusiast. I'm a passionate Java developer.
 
-<h1>More about me</h1>
+### More about me
+
 - Happy to help with anything, so ask me anything
 - Currently working on web developement (backend)
 - On bootloop everytime.
 
-<h1>Working Environment</h1>
+### Working Environment
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10ISO)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
