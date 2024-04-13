@@ -24,6 +24,10 @@ Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying t
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
+### Device I own
+[![MSI GS66 Stealth](https://img.shields.io/badge/MSI%20GS66%20Stealth-FF0000?style=for-the-badge&logo=msi&logoColor=white)](https://www.msi.com/Laptop/GS66-Stealth-10SX/Specification)
+[![Poco F3](https://img.shields.io/badge/Poco%20F3-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.gsmarena.com/xiaomi_poco_f3-10758.php)
+
 ### My stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashutoshchettri&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutoshchettri&theme=blue-green&hide_border=true&border_radius=10&showicons=true)
