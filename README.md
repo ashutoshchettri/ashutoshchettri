@@ -1,6 +1,6 @@
 <h2> Hi, I am Ashutosh Chettri <img src="https://raw.githubusercontent.com/ashutoshchettri/ashutoshchettri/main/pikahello.gif" width="40px" height="40px"></h2>
 
-Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying to improve myself. I am a FOSS lover, linux and android enthusiast. I'm a passionate Java developer.
+Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying to improve myself. I am a FOSS lover, linux and android enthusiast. I'm an Android Developer. Currently working for CareInfo Solutions.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXgxaXp3dWM0M20yeGFjbzd5bzljOTdoN21uZmJydnV3OXoxZTM1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 
@@ -32,6 +32,22 @@ Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying t
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashutoshchettri&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutoshchettri&theme=blue-green&hide_border=true&border_radius=10&showicons=true)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshchettri&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
+
+### Trophies
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ashutoshchettri&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ashutoshchettri&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Hobbies
 - [Anime & Manga](https://anilist.co/user/Eidoron/)
