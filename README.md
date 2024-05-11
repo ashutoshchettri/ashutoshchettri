@@ -2,7 +2,7 @@
 
 Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying to improve myself. I am a FOSS lover, linux and android enthusiast. I'm an Android Developer. Currently working for CareInfo Solutions.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXgxaXp3dWM0M20yeGFjbzd5bzljOTdoN21uZmJydnV3OXoxZTM1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx6aHIya3djdWI2ZWlkZ2RhN2hyMXJodzh6OXVjNW1lOTBxcTMxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### More about me
 - I love coding
