@@ -1,6 +1,6 @@
 <h2> Hi, I am Ashutosh Chettri <img src="https://raw.githubusercontent.com/ashutoshchettri/ashutoshchettri/main/pikahello.gif" width="40px" height="40px"></h2>
 
-Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying to improve myself. I am a FOSS lover, linux and android enthusiast. I'm an Android Developer. Currently working for CareInfo Solutions.
+Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying to improve myself. I am a FOSS lover, linux and android enthusiast.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx6aHIya3djdWI2ZWlkZ2RhN2hyMXJodzh6OXVjNW1lOTBxcTMxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -12,8 +12,7 @@ Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying t
 - Feel free to contact me in any of the platform below:
 
 <p>
-  <a href="https://twitter.com/ashutosh_ch2002"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://t.me/Eidoron1"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
+  <a href="https://twitter.com/ch_eidoron"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.reddit.com/user/_____aashu____"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/ashutosh_chettri_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/ashutosh-chettri-5b37a527b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
@@ -26,7 +25,6 @@ Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying t
 
 ### Device I own
 [![MSI GS66 Stealth](https://img.shields.io/badge/MSI%20GS66%20Stealth-FF0000?style=for-the-badge&logo=msi&logoColor=white)](https://www.msi.com/Laptop/GS66-Stealth-10SX/Specification)
-[![Poco F3](https://img.shields.io/badge/Poco%20F3-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://www.gsmarena.com/xiaomi_poco_f3-10758.php)
 
 ### My stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashutoshchettri&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
