@@ -28,7 +28,6 @@ Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying t
 
 ### My stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashutoshchettri&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutoshchettri&theme=blue-green&hide_border=true&border_radius=10&showicons=true)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshchettri&langs_count=4&theme=blue-green&hide_border=true&border_radius=10)]()
 
 ### Trophies
