@@ -12,19 +12,13 @@ Hello there, I'm Ashutosh Chettri from Nepal. I am a self learning guy, trying t
 - Feel free to contact me in any of the platform below:
 
 <p>
-  <a href="https://twitter.com/ch_eidoron"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-  <a href="https://www.reddit.com/user/_____aashu____"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height=25></a>
-  <a href="https://www.instagram.com/ashutosh_chettri_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/ashutosh_chettri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/ashutosh-chettri-5b37a527b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
 ### Working Environment
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows10ISO)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-
-### Device I own
-[![MSI GS66 Stealth](https://img.shields.io/badge/MSI%20GS66%20Stealth-FF0000?style=for-the-badge&logo=msi&logoColor=white)](https://www.msi.com/Laptop/GS66-Stealth-10SX/Specification)
 
 ### My stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ashutoshchettri&count_private=true&theme=blue-green&hide_border=true&border_radius=10&showicons=true)]()
