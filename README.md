@@ -23,6 +23,14 @@ My design philosophy leans toward:
 
 ---
 
+### 🕉️ Life Philosophy ###
+
+- Act with purpose, detach from outcome.
+- Equanimity in success and failure.
+- Clarity arises when the mind is still.  
+- Do your duty—skillfully, selflessly, fully.  
+- The wise work not for reward, but for harmony.  
+
 ### 🛠️ **What I Do**
 
 - Build modern **React Native** applications  
