@@ -20,19 +20,6 @@ Hello there, I'm Ashutosh Chettri from Nepal. I love coding, solving problems, i
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
-### Trophies
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashutoshchettri&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashutoshchettri&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -48,10 +35,3 @@ Hello there, I'm Ashutosh Chettri from Nepal. I love coding, solving problems, i
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### Contribution Graph
-<p align="center">
- <a href="https://github.com/ashutoshchettri">
-   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshchettri&theme=github-compact" />
- </a>
-</p>
