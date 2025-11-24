@@ -1,37 +1,86 @@
-<h2> Hi, I am Ashutosh Chettri <img src="https://raw.githubusercontent.com/ashutoshchettri/ashutoshchettri/main/pikahello.gif" width="40px" height="40px"></h2>
+<div align="center">
 
-Hello there, I'm Ashutosh Chettri from Nepal. I love coding, solving problems, identifying bugs and fixing stuffs. I love exploring the infinities. I hate light mode.
+# **Ashutosh Chettri**  <img src="https://raw.githubusercontent.com/ashutoshchettri/ashutoshchettri/main/pikahello.gif" width="40px" height="40px">
+### *React Native Developer*  
+Crafting clean, modern, intentional mobile experiences.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx6aHIya3djdWI2ZWlkZ2RhN2hyMXJodzh6OXVjNW1lOTBxcTMxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### More about me
-- I love coding
-- Happy to help with anything, so ask me anything
-- Currently working as a react native developer
-- On my own thoughts everytime
-- Feel free to contact me in any of the platform below:
-
-<p>
-  <a href="https://www.instagram.com/ashutosh_chettri/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a href="https://www.linkedin.com/in/ashutosh-chettri-5b37a527b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-</p>
-
-### Working Environment
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
+</div>
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
-### Known languages and tools
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https:dart.dev)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+## **Introduction**
+
+I’m Ashutosh, a React Native developer who values clarity, minimalism and meaningful interaction design.  
+I build mobile experiences that feel **smooth**, **intentional**, and **pleasant to use**.
+
+My design philosophy leans toward:
+
+- Calm and structured UI  
+- Subtle but expressive motion  
+- Clean typography  
+- Pixel-level attention  
+- Efficiency in both performance and code architecture  
+
+---
+
+## **What I Do**
+
+- Build modern **React Native** applications  
+- Create UI systems with consistent spacing & layout rules  
+- Implement clean modular architecture  
+- Optimize for performance & responsiveness  
+- Integrate thoughtful motion (Reanimated, Layout Animations)  
+- Design interfaces inspired by iOS clarity & elegance  
+
+## **Tech I Work With**
+
+**Core**
+- React Native  
+- TypeScript  
+- React Navigation  
+- Zustand / Jotai / Context patterns  
+
+**Motion**
+- Reanimated  
+- Gesture Handler  
+- Layout Animations  
+
+**Ecosystem**
+- Node.js  
+- Linux (Arch)  
+- Git  
+- Android Studio (only because required)  
+
+---
+
+## **Workflow Principles**
+
+1. **Minimal first. Beautiful after.**  
+2. **Spacing > decoration.**  
+3. **Animation should feel natural, not dramatic.**  
+4. **Architecture should decrease complexity, not hide it.**  
+5. **Dark mode is not a theme. It’s a lifestyle.**  
+6. **Every pixel should have a reason.**  
+
+---
+
+## **Current Focus**
+
+- Improving animation fluency in React Native  
+- Designing more structured UI systems  
+- Creating subtle, expressive motion patterns  
+- Writing cleaner, more maintainable TypeScript  
+- Building applications that feel light, calm, and fluid  
+
+
+---
+
+## **Working Environment**
+
+- Arch Linux (because control > convenience)  
+- VSCode with minimal extensions  
+- Terminal-first workflow  
+- Focus mode habits: calm music, low brightness, structured time blocks  
+
+---
